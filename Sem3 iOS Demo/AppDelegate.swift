@@ -3,10 +3,13 @@
 //  Sem3 iOS Demo
 //
 //  Created by Siddharthan Asokan on 16/7/17.
-//  Copyright © 2017 Social Apps. All rights reserved.
+//  Copyright © 2017 Apps. All rights reserved.
 //
 
 import UIKit
+
+let OAUTH_KEY = ""
+let OAUTH_SECRET = ""
 
 @UIApplicationMain
 class AppDelegate: UIResponder, UIApplicationDelegate {
